@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/dbal",
+    "name": "doctrine_devwing/dbal",
     "type": "library",
     "description": "Database Abstraction Layer",
     "keywords": ["dbal", "database", "persistence", "queryobject"],
